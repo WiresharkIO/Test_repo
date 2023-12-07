@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "640fd1c45625cd90",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ab6cc18c25ab18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2645dbfb1a0512d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annotation_and_Labelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88b8b5c15eeeaba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6afdcf95dd85a6d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b0f3922fa660330",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe9e667cdcba4b75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b545236d3027fd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f58f1c1db92d3df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a28647790599404",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b07d6d50acc36d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Annotation_and_Labelling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4ab550a46020417",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Annotation_and_Labelling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0b24ec0539b7f4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df376d1b010cb71f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Annotation_and_Labelling.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c2645dbfb1a0512d",
+  "lastOpenFiles": [
+    "_Initial_.md",
+    "Annotation_and_Labelling.md",
+    "label-studio.md",
+    "doccano.md",
+    "Pasted image 20231205123452.png",
+    "Pasted image 20231205123021.png",
+    "Pasted image 20231205115842.png",
+    "Pasted image 20231205114946.png",
+    "images/image.jpg.md",
+    "images",
+    "Pasted image 20231205124410.png",
+    "Pasted image 20231205123644.png",
+    "DataAnnotated.md",
+    "Untitled",
+    "Issue.md",
+    "Untitled.canvas"
+  ]
+}
